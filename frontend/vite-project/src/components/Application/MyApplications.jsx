@@ -18,7 +18,7 @@ const MyApplications = () => {
     try {
       if (user && user.role === "Employer") {
         axios
-          .get("https://jobportal-api-gold.vercel.app/application/employer/getapplication", {
+          .get("https://jobportal-api-rho.vercel.app/application/employer/getapplication", {
             withCredentials: true,
           })
           .then((res) => {
@@ -26,7 +26,7 @@ const MyApplications = () => {
           });
       } else {
         axios
-          .get("https://jobportal-api-gold.vercel.app/application/jobseeker/getapplication", {
+          .get("https://jobportal-api-rho.vercel.app/application/jobseeker/getapplication", {
             withCredentials: true,
           })
           .then((res) => {
@@ -45,7 +45,7 @@ const MyApplications = () => {
   const deleteApplication = (id) => {
     try {
       axios
-        .delete(`https://jobportal-api-gold.vercel.app/application/delete/${id}`, {
+        .delete(`https://jobportal-api-rho.vercel.app/application/delete/${id}`, {
           withCredentials: true,
         })
         .then((res) => {
