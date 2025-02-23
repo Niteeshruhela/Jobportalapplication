@@ -15,7 +15,7 @@ const app = express();
 dotenv.config({path: "./config/config.env"})
 app.use(
     cors({
-    origin: [process.env.FRONTEND_URL],
+    origin: ["https://jobportal-frontend-five.vercel.app/login"],
     methods: ["POST", "GET", "PUT", "DELETE"],
     credentials: true
 }))
