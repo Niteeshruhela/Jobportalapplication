@@ -22,7 +22,7 @@ const App = () => {
   useEffect(() => {
     const fetchUser = async () => {
       try {
-        const response = await axios.get("https://jobportal-api-gold.vercel.app/user/getuser",{withCredentials: true});
+        const response = await axios.get("https://jobportal-api-rho.vercel.app/user/getuser",{withCredentials: true});
         setUser(response.data.user);
         setIsAuthorized(true);
       } catch (error) {
