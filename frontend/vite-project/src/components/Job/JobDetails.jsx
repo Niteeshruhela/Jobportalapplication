@@ -12,7 +12,7 @@ const JobDetails = () => {
 
   useEffect(() => {
      axios
-      .get(`https://jobportal-api-gold.vercel.app/job/${id}`, {
+      .get(`https://jobportal-api-rho.vercel.app/job/${id}`, {
         withCredentials: true,
       })
       .then((res) => {
