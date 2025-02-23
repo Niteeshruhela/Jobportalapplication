@@ -22,7 +22,7 @@ const Register = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "http://localhost:4000/api/v1/user/register",
+        "https://jobportal-api-gold.vercel.app/user/register",
         { username, phone, email, role, password },
         {
           headers: {
