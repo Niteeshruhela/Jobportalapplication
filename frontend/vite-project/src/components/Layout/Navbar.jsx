@@ -13,7 +13,7 @@ const Navbar = () => {
   const handleLogout = async () => {
     try {
       const response = await axios.get(
-        "https://jobportal-api-gold.vercel.app/user/logout",
+        "https://jobportal-api-rho.vercel.app/user/logout",
         {
           withCredentials: true,
         }
