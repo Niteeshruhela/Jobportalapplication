@@ -26,4 +26,15 @@ Authentication: JWT, bcrypt
 Tools: Git, GitHub, Vercel, Cloudinary, VS Code
 
 ![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/74ce864e57a918747c31070e83087a44a211711c/Screenshot%202025-04-25%20022934.png)
+![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/b92ce1aa92515638748bbc506d7208b5efbb94d1/Screenshot%202025-04-25%20023009.png)
+
+# Employer-page
+![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/b92ce1aa92515638748bbc506d7208b5efbb94d1/Screenshot%202025-04-25%20023121.png)
+![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/b92ce1aa92515638748bbc506d7208b5efbb94d1/Screenshot%202025-04-25%20023140.png)
+![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/b92ce1aa92515638748bbc506d7208b5efbb94d1/Screenshot%202025-04-25%20023206.png)
+
+# Job-seeker-page
+![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/b92ce1aa92515638748bbc506d7208b5efbb94d1/Screenshot%202025-04-25%20023258.png)
+![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/b92ce1aa92515638748bbc506d7208b5efbb94d1/Screenshot%202025-04-25%20023311.png)
+![image alt](https://github.com/Niteeshruhela/Jobportalapplication/blob/b92ce1aa92515638748bbc506d7208b5efbb94d1/Screenshot%202025-04-25%20023327.png)
 
