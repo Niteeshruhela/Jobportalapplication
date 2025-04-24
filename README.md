@@ -24,4 +24,5 @@ Authentication: JWT, bcrypt
 
 Tools: Git, GitHub, Vercel, Cloudinary, VS Code
 
-![image alt](https://github.com/Niteeshruhela/Jobportalapplication/issues/1#issue-3018453974)
+https://github.com/Niteeshruhela/Jobportalapplication/blob/74ce864e57a918747c31070e83087a44a211711c/Screenshot%202025-04-25%20022934.png
+
